@@ -1,6 +1,6 @@
 ### Lawbreakers Bug Reporting
 
-Just a proof of concept showing how you can use GitHub Issues as a lightweight bug tracker. Looks at the [list of bugs](https://github.com/lawbreakers/bugs/issues):
+Just a proof of concept showing how you can use GitHub Issues as a lightweight bug tracker. Look at the [list of bugs](https://github.com/lawbreakers/bugs/issues):
 
 1. [Facebook Opengraph Metadata Woes](https://github.com/lawbreakers/bugs/issues/1)
 2. [Twitter Summary Card Woes](https://github.com/lawbreakers/bugs/issues/2)
